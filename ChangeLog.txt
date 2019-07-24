@@ -1,0 +1,3 @@
+修改Artwork尺寸为200x200
+
+修改Preset每个channel logo大小比例跟原图比例一致
